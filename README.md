@@ -3,9 +3,9 @@
 Este podcast de 6 minutos oferece uma conversa que, apesar de rápida, aborda os assuntos das IAs Generativas e o seus impactos na sociedade.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização e revisão;
-IA Generativa ElevenLabs para clonagem e sintetização de voz;
-Software Descript para edição e montagem do podcast.
+IA Generativa ChatGPT para roteirização e revisão;\
+IA Generativa ElevenLabs para clonagem e sintetização de voz;\
+Software Descript para edição e montagem do podcast.\
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar as vozes para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
