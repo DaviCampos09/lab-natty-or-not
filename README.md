@@ -12,7 +12,7 @@ Software Descript para edição e montagem do podcast.
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI](https://share.descript.com/view/yFOiRegnaNe)](https://share.descript.com/view/yFOiRegnaNe)
+[LINK PARA O PODCAST AQUI](https://share.descript.com/view/yFOiRegnaNe)
 
 ## 💭 Reflexão
 O projeto mostra a capacidade das IAs na criação de conteúdos. É simplismente inacreditável os resultados possíveis a se obterem.
