@@ -16,4 +16,3 @@ O episódio é uma introdução acessível e estimulante ao campo das IAs Genera
 
 ## 💭 Reflexão
 O projeto mostra a capacidade das IAs na criação de conteúdos. É simplismente inacreditável os resultados possíveis a se obterem.
-
