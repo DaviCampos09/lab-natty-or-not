@@ -2,7 +2,7 @@
 📒 Descrição
 Este podcast de 6 minutos oferece uma conversa que, apesar de rápida, aborda os assuntos das IAs Generativas e o seus impactos na sociedade.
 
-🤖 Tecnologias Utilizadas
+🤖 Tecnologias Utilizadas/n
 IA Generativa ChatGPT para roteirização e revisão;
 IA Generativa ElevenLabs para clonagem e sintetização de voz;
 Software Descript para edição e montagem do podcast.
